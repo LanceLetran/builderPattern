@@ -20,3 +20,6 @@ Implement solution using the Builder Pattern to address the issue.
 
 ===== Problem Scenario Ends here =====
 
+# UML Diagram
+
+[UML Diagram - Letran.pdf](https://github.com/LanceLetran/builderPattern/files/14123576/UML.Diagram.-.Letran.pdf)
