@@ -22,4 +22,4 @@ Implement solution using the Builder Pattern to address the issue.
 
 # UML Diagram
 
-[UML Diagram - Letran.pdf](https://github.com/LanceLetran/builderPattern/files/14123576/UML.Diagram.-.Letran.pdf)
+![UML Diagram - Letran](https://github.com/LanceLetran/builderPattern/assets/142746735/6308677f-c8ea-4f0b-a336-e216c4510dfc)
